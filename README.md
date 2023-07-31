@@ -6,7 +6,7 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" height="20"/> My main works are on Dart with Flutter for Android <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20" height="20"/>
 
-- But I also can do some Java, JavaScript, NodeJs and Python
+But I also can do some Java, JavaScript, NodeJs and Python
 <!--
 **Ludige/ludige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
