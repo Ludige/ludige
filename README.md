@@ -1,5 +1,10 @@
-### Hi there 👋
+#Hello Hello,
+## My Name is Luiggi or Ludige if you may
+- He/Him
+- I'm a Internet Systems Tecnology student
 
+-<i class="devicon-flutter-plain"></i> My main works are on Dart with Flutter for Android <i class="devicon-android-plain"></i>
+But I also can do some Java, JavaScript, NodeJs and Python
 <!--
 **Ludige/ludige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
