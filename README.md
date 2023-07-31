@@ -3,9 +3,9 @@
 - My Name is Luiggi or Ludige if you want✨
 - He/Him 👨🏻‍💻
 - I'm brazilian and a Internet Systems student at 'Instituto Federal Goiano - Campus Morrinhos' 🙋🏻‍♂️
-- 
 
--<i class="devicon-flutter-plain"></i> My main works are on Dart with Flutter for Android <i class="devicon-android-plain"></i>
+-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+My main works are on Dart with Flutter for Android <i class="devicon-android-plain"></i>
 But I also can do some Java, JavaScript, NodeJs and Python
 <!--
 **Ludige/ludige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
