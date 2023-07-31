@@ -1,7 +1,9 @@
-#Hello Hello,
-## My Name is Luiggi or Ludige if you may
-- He/Him
-- I'm a Internet Systems Tecnology student
+
+## Hello Hello
+- My Name is Luiggi or Ludige if you want✨
+- He/Him 🙎🏽‍♂️
+- I'm a Internet Systems student at 'Instituto Federal Goiano - Campus Morrinhos" (Brazil)
+- 
 
 -<i class="devicon-flutter-plain"></i> My main works are on Dart with Flutter for Android <i class="devicon-android-plain"></i>
 But I also can do some Java, JavaScript, NodeJs and Python
