@@ -1,6 +1,6 @@
 
 ## "Make yourselves at home ☕"
-- My Name is Luiggi or Ludige if you want✨
+- My name is Luiggi✨
 - He/Him 👨🏻‍💻
 - I'm a brazilian student of Internet Systems at 'Instituto Federal Goiano - Campus Morrinhos' 🙋🏻‍♂️
 # 
