@@ -23,6 +23,6 @@
 </div>
 
 #
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25" height="25"/> My main projects used Dart with Flutter for Android Development
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25" height="25"/> My main area of developments is Dart with Flutter for Android Development, but I work with other languages too, full-stack
 
 
