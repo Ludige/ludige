@@ -4,9 +4,12 @@
 - He/Him 👨🏻‍💻
 - I'm a brazilian student of Internet Systems at 'Instituto Federal Goiano - Campus Morrinhos' 🙋🏻‍♂️
 # 
+
 Meu nome é Luiggi, tenho 23 anos, Sou um desenvolvedor FullStack, minha jornada na programação
 começou em 2019 desde então adquiri conhecimento em diversas linguagens, nelas inclusas Java,
 JavaScript, HTML+CSS, Dart, Python, NodeJs, Sql, noSQL. Além de alguns frameworks como o React e Flutter.
+
+# 
 <div>
 <br>
 <a href="https://github.com/ludige">
