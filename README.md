@@ -10,7 +10,7 @@ começou em 2019 desde então adquiri conhecimento em diversas linguagens, nelas
 JavaScript, HTML+CSS, Dart, Python, NodeJs, Sql, noSQL. Além de alguns frameworks como o React e Flutter.
 
 # 
-<div>
+<div align="center">
 <br>
 <a href="https://github.com/ludige">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludige&layout=compact&langs_count=7&theme=dracula"/>
