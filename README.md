@@ -1,8 +1,8 @@
 
 ## "Make yourselves at home ☕"
-- My name is Luiggi✨
+- I'm Luiggi✨
 - He/Him 👨🏻‍💻
-- I'm a brazilian student of Internet Systems at 'Instituto Federal Goiano - Campus Morrinhos' 🙋🏻‍♂️
+- I'm a brazilian IT student at 'Instituto Federal Goiano - Campus Morrinhos' 🙋🏻‍♂️
 # 
 
 Meu nome é Luiggi, tenho 24 anos, Sou desenvolvedor FullStack, minha jornada na programação
