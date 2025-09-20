@@ -1,6 +1,6 @@
 
 ## "Make yourselves at home ☕"
-- I'm Luiggi✨
+- My name is Luiggi
 - I'm a brazilian IT student at 'Instituto Federal Goiano - Campus Morrinhos' 🙋🏻‍♂️
 # 
 
